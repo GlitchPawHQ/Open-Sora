@@ -1,7 +1,7 @@
 
 torch==2.8.0
 torchvision==0.23.0
-colossalai>=0.4.4
+git+https://github.com/hpcaitech/ColossalAI.git
 mmengine>=0.10.3
 ftfy>=6.2.0
 accelerate>=0.29.2
